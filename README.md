@@ -1,4 +1,4 @@
 # GoodTailJS
-A node script that tails files but replaces "\n" with an actual new line
+A node script that tails files but replaces "\n" with an actual new line, and "\t" with actual tabs.
 
-Error checking and stdn code by https://github.com/TylerCanning
+Error checking by https://github.com/TylerCanning
